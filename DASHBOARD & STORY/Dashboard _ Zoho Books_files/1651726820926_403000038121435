@@ -1,0 +1,2 @@
+.chtend.siq-info-message { color: #fff }
+.chtend .chtlnks:before, .chtend.siq-info-message > a { visibility: hidden; }
